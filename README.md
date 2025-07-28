@@ -27,4 +27,5 @@
 
 ## Haskell版実行方法
 ghc tictactoe.hs
+
 ./tictactoe
