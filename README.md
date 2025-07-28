@@ -25,12 +25,6 @@
 - Python版では同ロジックをオブジェクト指向で移植
 - コマンドライン上で動作
 
-## ディレクトリ構成
-.
-├── README.md         # このファイル
-├── tictactoe.hs      # Haskell版ソースコード
-├── tictactoe.py      # Python版ソースコード
-
 ## Haskell版実行方法
 ghc tictactoe.hs
 ./tictactoe
